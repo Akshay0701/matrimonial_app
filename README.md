@@ -1,7 +1,8 @@
 # matrimonial_app
 
 
-> Basically Its matrimonial App.
+> Basically Its app which is a app that run and normal people know;s ittt withe its name app.
+>ops sorry ;)
 [![NPM Version][npm-image]][npm-url]
 
 
