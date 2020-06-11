@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/nav_home">
+
+    <fragment
+        android:id="@+id/nav_home"
+        android:name="com.example.shubhamangalshavdan.ui.home.HomeFragment"
+        android:label="@string/menu_home"
+        tools:layout="@layout/fragment_home">
+
+    </fragment>
+
+
+    <fragment
+        android:id="@+id/nav_service"
+        android:name="com.example.shubhamangalshavdan.ui.gallery.ServiceFragment"
+        android:label="Services"
+        tools:layout="@layout/fragment_service" />
+
+    <fragment
+        android:id="@+id/nav_payment"
+        android:name="com.example.shubhamangalshavdan.ui.slideshow.PaymentFragment"
+        android:label="Payment"
+        tools:layout="@layout/fragment_payment" />
+    <fragment
+        android:id="@+id/nav_membership"
+        android:name="com.example.shubhamangalshavdan.ui.membership.MemberFragment"
+        android:label="MemberShip"
+        tools:layout="@layout/fragment_member" />
+    <fragment
+        android:id="@+id/nav_contact"
+        android:name="com.example.shubhamangalshavdan.ui.ContactUs.ContactFragment"
+        android:label="Contact Us"
+        tools:layout="@layout/fragment_contact" />
+</navigation>
