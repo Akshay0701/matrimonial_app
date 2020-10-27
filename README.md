@@ -24,7 +24,6 @@
 ### Home Screen & Loading Screen
 <img src="https://i.ibb.co/c6qKBbz/homepage.jpg" height="400" width="200">-------<img src="https://i.ibb.co/RQfytvZ/contactus.jpg" height="400" width="200">-------<img src="https://i.ibb.co/q77DvJg/serivcespage.jpg" height="400" width="200">
 
-### Dabba Order Screen
 <img src="https://i.ibb.co/bNRBDg8/payment.jpg" height="400" width="200">-------<img src="https://i.ibb.co/xm754QR/membership.jpg" height="400" width="200">-------<img src="https://i.ibb.co/xz3g6fM/payment2.jpg" height="400" width="200">
 
 
